@@ -1,0 +1,1 @@
+This bug demonstrates a common type error in TypeScript when passing an array of strings to a function that expects a single string. The solution involves modifying the function signature to accept an array of strings or iterating over the array within the function.
